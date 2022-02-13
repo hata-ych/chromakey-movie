@@ -19,6 +19,8 @@
 
 .movie, .wistia_responsive_padding{
 	border-radius:20px;
-	margin:20px;
+	margin:50px;
+	  box-shadow: 0 0 8px gray;
+
 }
 
