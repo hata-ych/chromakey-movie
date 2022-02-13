@@ -17,7 +17,7 @@
 }
 
 
-.movie{
+.movie, .wistia_responsive_padding{
 	border-radius:20px;
 	margin:20px;
 }
