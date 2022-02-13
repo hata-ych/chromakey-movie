@@ -23,8 +23,10 @@
 
 
 .wistia_embed{
-	border-radius:20px;
-	margin:50px;
+	border-radius:4px;
+	margin-left:50px;
+	margin-right:50px;
+	margoin-bottom:50px;
 	  box-shadow: 0 0 8px gray;
 
 }
