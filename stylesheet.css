@@ -17,6 +17,11 @@
 }
 
 
+.text{
+	font-family: "serif";
+}
+
+
 .wistia_embed{
 	border-radius:20px;
 	margin:50px;
